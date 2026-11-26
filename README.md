@@ -12,11 +12,11 @@ ESP32 firmware for a desk light with warm-white and cool-white LEDs. It turns on
 
 ## Hardware
 
-- [ESP32 dev board model]
+- Any ESP32 Board
 - KY-040 rotary encoder
-- [PIR sensor model]
-- Warm-white and cool-white [COB LED]
-- 2x [MOSFET model] (one per LED channel)
+- AM312 or any viable PIR Sensor
+- Warm-white and cool-white COB LED
+- 2x IRLZ44N MOSFET (one per LED channel)
 - Manual switch
 
 ## Pin map
